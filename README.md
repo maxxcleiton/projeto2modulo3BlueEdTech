@@ -1,4 +1,5 @@
 # Projeto El Geladon (Blue EdTech - Módulo 3 Projeto 2)
+<img href="./src/assets/mod3proj2.gif">
 
 ## Descrição:
 Criação de um site, com os métodos CRUD em funcionamento, utilizando a lib React.
